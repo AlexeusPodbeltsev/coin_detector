@@ -1,0 +1,97 @@
+coin1.png
+x=685 y=1344 radius=250
+x=254 y=1132 radius=185
+x=1654 y=778 radius=243
+x=1169 y=480 radius=282
+x=1173 y=1052 radius=272
+x=626 y=763 radius=301
+x=228 y=393 radius=218
+x=686 y=242 radius=223
+
+coin2.png
+x=72 y=71 radius=63
+x=377 y=71 radius=65
+x=225 y=229 radius=79
+x=281 y=378 radius=50
+x=67 y=231 radius=59
+x=379 y=236 radius=60
+x=57 y=382 radius=48
+x=171 y=379 radius=50
+x=228 y=76 radius=52
+x=391 y=388 radius=41
+
+coin3.png
+x=1140 y=324 radius=287
+x=2292 y=1632 radius=273
+x=386 y=328 radius=279
+x=1867 y=978 radius=283
+x=2571 y=979 radius=275
+x=1573 y=1631 radius=273
+x=1860 y=332 radius=276
+x=1138 y=973 radius=266
+x=377 y=978 radius=276
+x=849 y=1592 radius=299
+x=2593 y=334 radius=282
+
+coin4.png
+x=191 y=296 radius=167
+x=525 y=160 radius=153
+x=179 y=646 radius=154
+x=773 y=376 radius=134
+x=732 y=662 radius=119
+x=484 y=484 radius=143
+
+coin5.png
+x=200 y=655 radius=140
+x=505 y=737 radius=154
+x=543 y=123 radius=118
+x=438 y=404 radius=167
+x=770 y=566 radius=150
+x=705 y=303 radius=101
+x=130 y=378 radius=126
+x=267 y=138 radius=134
+
+coin6.png
+x=284 y=161 radius=138
+x=127 y=500 radius=98
+x=790 y=283 radius=131
+x=560 y=130 radius=126
+x=303 y=654 radius=115
+x=741 y=538 radius=117
+x=537 y=665 radius=106
+x=91 y=305 radius=85
+
+coin7.png
+x=717 y=177 radius=96
+x=452 y=171 radius=130
+x=179 y=621 radius=141
+x=708 y=416 radius=80
+x=710 y=670 radius=110
+x=470 y=456 radius=114
+x=464 y=731 radius=105
+x=200 y=318 radius=134
+
+coin8.png
+x=535 y=168 radius=157
+x=196 y=282 radius=171
+x=171 y=636 radius=159
+x=470 y=485 radius=141
+x=468 y=807 radius=155
+x=749 y=637 radius=146
+
+coin9.png
+x=146 y=147 radius=134
+x=169 y=578 radius=111
+x=694 y=360 radius=86
+x=409 y=579 radius=112
+x=705 y=590 radius=76
+x=871 y=591 radius=75
+x=883 y=359 radius=85
+x=430 y=144 radius=136
+x=209 y=369 radius=71
+
+coin10.png
+x=660 y=1039 radius=132
+x=188 y=677 radius=127
+x=751 y=263 radius=96
+end
